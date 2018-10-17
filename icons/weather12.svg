@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #707070;
+        stroke-width: 8px;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_16" data-name="组 16" transform="translate(490 362)">
+    <g id="椭圆_70" data-name="椭圆 70" class="cls-1" transform="translate(-490 -343)">
+      <ellipse class="cls-4" cx="19.5" cy="21" rx="19.5" ry="21"/>
+      <ellipse class="cls-5" cx="19.5" cy="21" rx="15.5" ry="17"/>
+    </g>
+    <g id="椭圆_71" data-name="椭圆 71" class="cls-1" transform="translate(-435 -337)">
+      <ellipse class="cls-4" cx="101.5" cy="112" rx="101.5" ry="112"/>
+      <ellipse class="cls-5" cx="101.5" cy="112" rx="97.5" ry="108"/>
+    </g>
+    <rect id="矩形_10" data-name="矩形 10" class="cls-2" width="263" height="340" transform="translate(-333 -362)"/>
+    <ellipse id="椭圆_72" data-name="椭圆 72" class="cls-2" cx="71" cy="93" rx="71" ry="93" transform="translate(-435 -285)"/>
+    <line id="直线_81" data-name="直线 81" class="cls-3" x2="101" transform="translate(-434.5 -206.5)"/>
+    <line id="直线_82" data-name="直线 82" class="cls-3" x1="1" y2="141" transform="translate(-431.5 -239.5)"/>
+  </g>
+</svg>

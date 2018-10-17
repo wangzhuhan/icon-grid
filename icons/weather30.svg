@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354.297 233.261">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #625f5f;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 8px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_14" data-name="组 14" transform="translate(750.5 429.261)">
+    <g id="椭圆_67" data-name="椭圆 67" class="cls-1" transform="translate(-665.072 -429.261)">
+      <ellipse class="cls-4" cx="95.5" cy="108.631" rx="95.5" ry="108.631"/>
+      <ellipse class="cls-5" cx="95.5" cy="108.631" rx="95" ry="108.131"/>
+    </g>
+    <rect id="矩形_8" data-name="矩形 8" class="cls-2" width="313.297" height="124" transform="translate(-726 -320)"/>
+    <line id="直线_79" data-name="直线 79" class="cls-3" x2="354.297" transform="translate(-750.5 -320.065)"/>
+  </g>
+</svg>
