@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161.297 166">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161 166" id="el_RR5GKqZLS"><style>@-webkit-keyframes el_msVG2WYTOf_E9PyoSnDJ_Animation{
+0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+100%{-webkit-transform: rotate(360deg);transform: rotate(360deg);}}
+@keyframes el_msVG2WYTOf_E9PyoSnDJ_Animation{
+0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+100%{-webkit-transform: rotate(360deg);transform: rotate(360deg);}}
+#el_RR5GKqZLS *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}
+#el_msVG2WYTOf{fill: #fff;stroke: #707070;stroke-width: 8px;}
+#el_msVG2WYTOf_E9PyoSnDJ{-webkit-animation-name: el_msVG2WYTOf_E9PyoSnDJ_Animation;animation-name: el_msVG2WYTOf_E9PyoSnDJ_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: rotate(0deg);transform: rotate(0deg);}</style>
   <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-        stroke: #707070;
-        stroke-width: 8px;
-      }
-    </style>
+    
   </defs>
-  <path id="sunny" class="cls-1" d="M84.155,144v22Zm46.085-8,20.037,19Zm-91.168,0L14.026,155Zm0-46a45.083,45.083,0,1,1,45.083,45A45.042,45.042,0,0,1,39.072,90Zm99.183,0H161.3ZM0,90H28.051ZM150.277,22,120.221,45ZM14.026,22,39.072,45ZM84.155,0V29Z"/>
-</svg>
+  <g id="el_msVG2WYTOf_E9PyoSnDJ" data-animator-group="true" data-animator-type="1"><path id="el_msVG2WYTOf" d="M84.155,144v22Zm46.085-8,20.037,19Zm-91.168,0L14.026,155Zm0-46a45.083,45.083,0,1,1,45.083,45A45.042,45.042,0,0,1,39.072,90Zm99.183,0H161.3ZM0,90H28.051ZM150.277,22,120.221,45ZM14.026,22,39.072,45ZM84.155,0V29Z"/></g>
+<script>(function(){var a=document.querySelector('#el_RR5GKqZLS'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();</script></svg>
