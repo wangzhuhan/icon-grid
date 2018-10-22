@@ -1,11 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 182">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 182" id="el_pZCGCf7IG"><style>@-webkit-keyframes el_lTz7IfEnM8_g8GD2C9Qr_Animation{
+0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+16.67%{-webkit-transform: scale(0.9, 0.9);transform: scale(0.9, 0.9);}
+33.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}
+@keyframes el_lTz7IfEnM8_g8GD2C9Qr_Animation{
+0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+16.67%{-webkit-transform: scale(0.9, 0.9);transform: scale(0.9, 0.9);}
+33.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}
+100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}
+#el_pZCGCf7IG *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}
+#el_lTz7IfEnM8{fill: #716e6e;stroke: #707070;-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}
+#el_lTz7IfEnM8_g8GD2C9Qr{-webkit-animation-name: el_lTz7IfEnM8_g8GD2C9Qr_Animation;animation-name: el_lTz7IfEnM8_g8GD2C9Qr_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: scale(1, 1);transform: scale(1, 1);}</style>
   <defs>
-    <style>
-      .cls-1 {
-        fill: #716e6e;
-        stroke: #707070;
-      }
-    </style>
+    
   </defs>
-  <path id="减去_9" data-name="减去 9" class="cls-1" d="M92,181.5a93.158,93.158,0,0,1-18.44-1.839A91.582,91.582,0,0,1,16.127,141.6a89.629,89.629,0,0,1,0-101.2A91.589,91.589,0,0,1,73.559,2.339a93.393,93.393,0,0,1,36.881,0A91.582,91.582,0,0,1,167.873,40.4a89.628,89.628,0,0,1,0,101.2,91.591,91.591,0,0,1-57.433,38.062A93.159,93.159,0,0,1,92,181.5Zm2.344-79.93,42.742,32.136L105.534,56.046,94.343,28.5,46.1,133.707l.252-.17.189-.127c43.983-29.6,47.769-31.82,47.8-31.839Z" transform="translate(0 0)"/>
-</svg>
+  <g id="el_lTz7IfEnM8_g8GD2C9Qr" data-animator-group="true" data-animator-type="2"><path id="el_lTz7IfEnM8" data-name="减去 9" d="M92,181.5a93.158,93.158,0,0,1-18.44-1.839A91.582,91.582,0,0,1,16.127,141.6a89.629,89.629,0,0,1,0-101.2A91.589,91.589,0,0,1,73.559,2.339a93.393,93.393,0,0,1,36.881,0A91.582,91.582,0,0,1,167.873,40.4a89.628,89.628,0,0,1,0,101.2,91.591,91.591,0,0,1-57.433,38.062A93.159,93.159,0,0,1,92,181.5Zm2.344-79.93,42.742,32.136L105.534,56.046,94.343,28.5,46.1,133.707l.252-.17.189-.127c43.983-29.6,47.769-31.82,47.8-31.839Z"/></g>
+<script>(function(){var a=document.querySelector('#el_pZCGCf7IG'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();</script></svg>

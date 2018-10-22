@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161 162">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161 162" id="el_WX19hstVN1"><style>@-webkit-keyframes el_pgwxfuU1hN_EPNWhHv4z_Animation{
+0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+100%{-webkit-transform: rotate(360deg);transform: rotate(360deg);}}
+@keyframes el_pgwxfuU1hN_EPNWhHv4z_Animation{
+0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+100%{-webkit-transform: rotate(360deg);transform: rotate(360deg);}}
+#el_WX19hstVN1 *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}
+#el_pgwxfuU1hN{fill: #f8f7f7;stroke: #707070;stroke-width: 4px;-webkit-transform: translate(1.5px, 1.5px);transform: translate(1.5px, 1.5px);}
+#el_pgwxfuU1hN_EPNWhHv4z{-webkit-animation-name: el_pgwxfuU1hN_EPNWhHv4z_Animation;animation-name: el_pgwxfuU1hN_EPNWhHv4z_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: rotate(0deg);transform: rotate(0deg);}</style>
   <defs>
-    <style>
-      .cls-1 {
-        fill: #f8f7f7;
-        stroke: #707070;
-        stroke-width: 4px;
-      }
-    </style>
+    
   </defs>
-  <path id="排除_1" data-name="排除 1" class="cls-1" d="M79,158.5a78.6,78.6,0,0,1-15.821-1.6,77.806,77.806,0,0,1-28.07-11.887A79,79,0,0,1,2.1,95.421a80.27,80.27,0,0,1,0-31.843A78.916,78.916,0,0,1,48.444,6.709a77.743,77.743,0,0,1,14.735-4.6,78.775,78.775,0,0,1,31.641,0A77.807,77.807,0,0,1,122.89,13.992a79,79,0,0,1,33.015,49.586,80.267,80.267,0,0,1,0,31.843,78.917,78.917,0,0,1-46.349,56.871,77.742,77.742,0,0,1-14.735,4.6A78.6,78.6,0,0,1,79,158.5ZM128.547,42.434c-.076.043-8.193,4.522-60.757,27.78L30.374,117.56,90.414,93.3ZM79,88.5a6.019,6.019,0,1,1,6.5-6A6.272,6.272,0,0,1,79,88.5Z" transform="translate(1.5 1.5)"/>
-</svg>
+  <g id="el_pgwxfuU1hN_EPNWhHv4z" data-animator-group="true" data-animator-type="1"><path id="el_pgwxfuU1hN" data-name="排除 1" d="M79,158.5a78.6,78.6,0,0,1-15.821-1.6,77.806,77.806,0,0,1-28.07-11.887A79,79,0,0,1,2.1,95.421a80.27,80.27,0,0,1,0-31.843A78.916,78.916,0,0,1,48.444,6.709a77.743,77.743,0,0,1,14.735-4.6,78.775,78.775,0,0,1,31.641,0A77.807,77.807,0,0,1,122.89,13.992a79,79,0,0,1,33.015,49.586,80.267,80.267,0,0,1,0,31.843,78.917,78.917,0,0,1-46.349,56.871,77.742,77.742,0,0,1-14.735,4.6A78.6,78.6,0,0,1,79,158.5ZM128.547,42.434c-.076.043-8.193,4.522-60.757,27.78L30.374,117.56,90.414,93.3ZM79,88.5a6.019,6.019,0,1,1,6.5-6A6.272,6.272,0,0,1,79,88.5Z"/></g>
+<script>(function(){var a=document.querySelector('#el_WX19hstVN1'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();</script></svg>

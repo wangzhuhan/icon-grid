@@ -1,55 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 142.5">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 142" id="el_EgggU9yX_"><style>@-webkit-keyframes el_wRru2coil3_3aecMoKfe_Animation{0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}33.33%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}66.67%{-webkit-transform: scale(0.9, 0.9);transform: scale(0.9, 0.9);}100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}@keyframes el_wRru2coil3_3aecMoKfe_Animation{0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}33.33%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}66.67%{-webkit-transform: scale(0.9, 0.9);transform: scale(0.9, 0.9);}100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}@-webkit-keyframes el_7KSnf3WCTG_CVWFdtkUZ_Animation{0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}33.33%{-webkit-transform: scale(0.2, 0.2);transform: scale(0.2, 0.2);}67.78%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}100%{-webkit-transform: scale(0.6, 0.6);transform: scale(0.6, 0.6);}}@keyframes el_7KSnf3WCTG_CVWFdtkUZ_Animation{0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}33.33%{-webkit-transform: scale(0.2, 0.2);transform: scale(0.2, 0.2);}67.78%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}100%{-webkit-transform: scale(0.6, 0.6);transform: scale(0.6, 0.6);}}@-webkit-keyframes el_mO8_S4Iwjb_hkx39eKwb_Animation{0%{-webkit-transform: scale(0.2, 0.2);transform: scale(0.2, 0.2);}33.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}66.67%{-webkit-transform: scale(0.6, 0.6);transform: scale(0.6, 0.6);}100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}@keyframes el_mO8_S4Iwjb_hkx39eKwb_Animation{0%{-webkit-transform: scale(0.2, 0.2);transform: scale(0.2, 0.2);}33.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}66.67%{-webkit-transform: scale(0.6, 0.6);transform: scale(0.6, 0.6);}100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}@-webkit-keyframes el_CI5rLs_C7k_16kOQ9qR7_Animation{0%{-webkit-transform: scale(0, 0);transform: scale(0, 0);}100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}@keyframes el_CI5rLs_C7k_16kOQ9qR7_Animation{0%{-webkit-transform: scale(0, 0);transform: scale(0, 0);}100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}@-webkit-keyframes el_x_y-iqGBA1_gHK8lZXk__Animation{0%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}33.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}66.67%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}@keyframes el_x_y-iqGBA1_gHK8lZXk__Animation{0%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}33.33%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}66.67%{-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}100%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}}#el_EgggU9yX_ *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_CDnRdjyccW{-webkit-transform: translate(508px, -137px);transform: translate(508px, -137px);}#el_x_y-iqGBA1{fill: #656262;stroke: #707070;-webkit-transform: translate(-482px, 137px);transform: translate(-482px, 137px);}#el_WsnwNfjCNc{stroke: none;}#el_-c5dO8jxw7{fill: none;}#el_CI5rLs_C7k{stroke: #707070;fill: #fdfdfd;stroke-width: 8px;-webkit-transform: translate(-482px, 137px);transform: translate(-482px, 137px);}#el_YVBQ_YMJVp{stroke: none;}#el_kwbgwKnI_6{fill: none;}#el_mO8_S4Iwjb{stroke: #707070;fill: #fdfdfd;stroke-width: 8px;-webkit-transform: translate(-439px, 205.145px);transform: translate(-439px, 205.145px);}#el_ryh2qszGIl{stroke: none;}#el_fkE5nMQ2ro{fill: none;}#el_7KSnf3WCTG{stroke: #707070;fill: #fdfdfd;stroke-width: 8px;-webkit-transform: translate(-508px, 188.975px);transform: translate(-508px, 188.975px);}#el_GCujqNFnv8{stroke: none;}#el_LAz3Lacb3m{fill: none;}#el_wRru2coil3{stroke: #707070;fill: #fdfdfd;stroke-width: 8px;-webkit-transform: translate(-465px, 252.5px);transform: translate(-465px, 252.5px);}#el_s1A2blqo8w{stroke: none;}#el_VbSXBEWetXj{fill: none;}#el_vpnqtO2-ilw{stroke: #707070;fill: none;stroke-width: 4px;-webkit-transform: translate(-489.5px, 161.799px);transform: translate(-489.5px, 161.799px);}#el_CTdUDI8OVdD{stroke: #707070;fill: none;stroke-width: 4px;-webkit-transform: translate(-484.5px, 204.382px);transform: translate(-484.5px, 204.382px);}#el_nHhR-dt8087{stroke: #707070;fill: none;stroke-width: 4px;-webkit-transform: translate(-445.5px, 231.563px);transform: translate(-445.5px, 231.563px);}#el_x_y-iqGBA1_gHK8lZXk_{-webkit-animation-name: el_x_y-iqGBA1_gHK8lZXk__Animation;animation-name: el_x_y-iqGBA1_gHK8lZXk__Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: scale(0.8, 0.8);transform: scale(0.8, 0.8);}#el_CI5rLs_C7k_4FqfyzvPZ{-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: translate(80px, 0px);transform: translate(80px, 0px);}#el_CI5rLs_C7k_16kOQ9qR7{-webkit-animation-name: el_CI5rLs_C7k_16kOQ9qR7_Animation;animation-name: el_CI5rLs_C7k_16kOQ9qR7_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: scale(0, 0);transform: scale(0, 0);}#el_mO8_S4Iwjb_hkx39eKwb{-webkit-animation-name: el_mO8_S4Iwjb_hkx39eKwb_Animation;animation-name: el_mO8_S4Iwjb_hkx39eKwb_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;}#el_7KSnf3WCTG_CVWFdtkUZ{-webkit-animation-name: el_7KSnf3WCTG_CVWFdtkUZ_Animation;animation-name: el_7KSnf3WCTG_CVWFdtkUZ_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;}#el_wRru2coil3_3aecMoKfe{-webkit-animation-name: el_wRru2coil3_3aecMoKfe_Animation;animation-name: el_wRru2coil3_3aecMoKfe_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;}</style>
   <defs>
-    <style>
-      .cls-1 {
-        fill: #656262;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        stroke: #707070;
-      }
-
-      .cls-2 {
-        fill: #fdfdfd;
-        stroke-width: 8px;
-      }
-
-      .cls-3, .cls-5 {
-        fill: none;
-      }
-
-      .cls-3 {
-        stroke-width: 4px;
-      }
-
-      .cls-4 {
-        stroke: none;
-      }
-    </style>
+    
   </defs>
-  <g id="组_3" data-name="组 3" transform="translate(508 -137)">
-    <g id="椭圆_7" data-name="椭圆 7" class="cls-1" transform="translate(-482 137)">
-      <ellipse class="cls-4" cx="13" cy="13.5" rx="13" ry="13.5"/>
-      <ellipse class="cls-5" cx="13" cy="13.5" rx="12.5" ry="13"/>
-    </g>
-    <g id="椭圆_8" data-name="椭圆 8" class="cls-2" transform="translate(-482 137)">
-      <ellipse class="cls-4" cx="13" cy="13.5" rx="13" ry="13.5"/>
-      <ellipse class="cls-5" cx="13" cy="13.5" rx="9" ry="9.5"/>
-    </g>
-    <g id="椭圆_9" data-name="椭圆 9" class="cls-2" transform="translate(-439 205.145)">
-      <ellipse class="cls-4" cx="13" cy="13.5" rx="13" ry="13.5"/>
-      <ellipse class="cls-5" cx="13" cy="13.5" rx="9" ry="9.5"/>
-    </g>
-    <g id="椭圆_10" data-name="椭圆 10" class="cls-2" transform="translate(-508 188.975)">
-      <ellipse class="cls-4" cx="13" cy="13.5" rx="13" ry="13.5"/>
-      <ellipse class="cls-5" cx="13" cy="13.5" rx="9" ry="9.5"/>
-    </g>
-    <g id="椭圆_11" data-name="椭圆 11" class="cls-2" transform="translate(-465 252.5)">
-      <ellipse class="cls-4" cx="13" cy="13.5" rx="13" ry="13.5"/>
-      <ellipse class="cls-5" cx="13" cy="13.5" rx="9" ry="9.5"/>
-    </g>
-    <line id="直线_23" data-name="直线 23" class="cls-3" x1="18" y2="26" transform="translate(-489.5 161.799)"/>
-    <line id="直线_24" data-name="直线 24" class="cls-3" x2="46" y2="10" transform="translate(-484.5 204.382)"/>
-    <line id="直线_25" data-name="直线 25" class="cls-3" x1="14" y2="21" transform="translate(-445.5 231.563)"/>
+  <g id="el_CDnRdjyccW" data-name="组 3">
+    <g id="el_x_y-iqGBA1_gHK8lZXk_" data-animator-group="true" data-animator-type="2"><g id="el_x_y-iqGBA1" data-name="椭圆 7">
+      <ellipse cx="13" cy="13.5" rx="13" ry="13.5" id="el_WsnwNfjCNc"/>
+      <ellipse cx="13" cy="13.5" rx="12.5" ry="13" id="el_-c5dO8jxw7"/>
+    </g></g>
+    <g id="el_CI5rLs_C7k_16kOQ9qR7" data-animator-group="true" data-animator-type="2"><g id="el_CI5rLs_C7k" data-name="椭圆 8">
+      <ellipse cx="13" cy="13.5" rx="13" ry="13.5" id="el_YVBQ_YMJVp"/>
+      <ellipse cx="13" cy="13.5" rx="9" ry="9.5" id="el_kwbgwKnI_6"/>
+    </g></g>
+    <g id="el_mO8_S4Iwjb_hkx39eKwb" data-animator-group="true" data-animator-type="2"><g id="el_mO8_S4Iwjb" data-name="椭圆 9">
+      <ellipse cx="13" cy="13.5" rx="13" ry="13.5" id="el_ryh2qszGIl"/>
+      <ellipse cx="13" cy="13.5" rx="9" ry="9.5" id="el_fkE5nMQ2ro"/>
+    </g></g>
+    <g id="el_7KSnf3WCTG_CVWFdtkUZ" data-animator-group="true" data-animator-type="2"><g id="el_7KSnf3WCTG" data-name="椭圆 10">
+      <ellipse cx="13" cy="13.5" rx="13" ry="13.5" id="el_GCujqNFnv8"/>
+      <ellipse cx="13" cy="13.5" rx="9" ry="9.5" id="el_LAz3Lacb3m"/>
+    </g></g>
+    <g id="el_wRru2coil3_3aecMoKfe" data-animator-group="true" data-animator-type="2"><g id="el_wRru2coil3" data-name="椭圆 11">
+      <ellipse cx="13" cy="13.5" rx="13" ry="13.5" id="el_s1A2blqo8w"/>
+      <ellipse cx="13" cy="13.5" rx="9" ry="9.5" id="el_VbSXBEWetXj"/>
+    </g></g>
+    <line id="el_vpnqtO2-ilw" data-name="直线 23" x1="18" y2="26"/>
+    <line id="el_CTdUDI8OVdD" data-name="直线 24" x2="46" y2="10"/>
+    <line id="el_nHhR-dt8087" data-name="直线 25" x1="14" y2="21"/>
   </g>
-</svg>
+<script>(function(){var a=document.querySelector('#el_EgggU9yX_'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();</script></svg>

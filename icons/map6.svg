@@ -1,12 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.511 156.167">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91 156" id="el_Xw55o8qHXv"><style>@-webkit-keyframes el_QLWD1KIfnl_BWI2yaJUS_Animation{
+0%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}
+36.67%{-webkit-transform: translate(0px, 10px);transform: translate(0px, 10px);}
+83.33%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}
+100%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}}
+@keyframes el_QLWD1KIfnl_BWI2yaJUS_Animation{
+0%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}
+36.67%{-webkit-transform: translate(0px, 10px);transform: translate(0px, 10px);}
+83.33%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}
+100%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}}
+#el_Xw55o8qHXv *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}
+#el_QLWD1KIfnl{fill: #a3d7e6;stroke: #707070;stroke-width: 4px;-webkit-transform: translate(2px, 2px);transform: translate(2px, 2px);}
+#el_QLWD1KIfnl_BWI2yaJUS{-webkit-animation-name: el_QLWD1KIfnl_BWI2yaJUS_Animation;animation-name: el_QLWD1KIfnl_BWI2yaJUS_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}</style>
   <defs>
-    <style>
-      .cls-1 {
-        fill: #a3d7e6;
-        stroke: #707070;
-        stroke-width: 4px;
-      }
-    </style>
+    
   </defs>
-  <path id="减去_2" data-name="减去 2" class="cls-1" d="M47.9,152.143,28.082,78.649c-.45-.178-.9-.363-1.33-.551a45.234,45.234,0,0,1-13.915-9.442C4.679,60.569,0,49.882,0,39.336A35.7,35.7,0,0,1,3.438,24.025a39.245,39.245,0,0,1,9.375-12.5,44.208,44.208,0,0,1,13.91-8.431,48.476,48.476,0,0,1,34.064,0A44.208,44.208,0,0,1,74.7,11.522a39.279,39.279,0,0,1,9.377,12.5,35.722,35.722,0,0,1,3.437,15.312c0,10.545-4.679,21.232-12.838,29.32a45.524,45.524,0,0,1-10.2,7.628C62.971,87.817,48.048,151.5,47.9,152.143ZM33,20A10.27,10.27,0,0,0,23,30.5,10.271,10.271,0,0,0,33,41a9.7,9.7,0,0,0,7.071-3.075A10.7,10.7,0,0,0,43,30.5,10.27,10.27,0,0,0,33,20Z" transform="translate(2 2)"/>
-</svg>
+  <g id="el_QLWD1KIfnl_BWI2yaJUS" data-animator-group="true" data-animator-type="0"><path id="el_QLWD1KIfnl" data-name="减去 2" d="M47.9,152.143,28.082,78.649c-.45-.178-.9-.363-1.33-.551a45.234,45.234,0,0,1-13.915-9.442C4.679,60.569,0,49.882,0,39.336A35.7,35.7,0,0,1,3.438,24.025a39.245,39.245,0,0,1,9.375-12.5,44.208,44.208,0,0,1,13.91-8.431,48.476,48.476,0,0,1,34.064,0A44.208,44.208,0,0,1,74.7,11.522a39.279,39.279,0,0,1,9.377,12.5,35.722,35.722,0,0,1,3.437,15.312c0,10.545-4.679,21.232-12.838,29.32a45.524,45.524,0,0,1-10.2,7.628C62.971,87.817,48.048,151.5,47.9,152.143ZM33,20A10.27,10.27,0,0,0,23,30.5,10.271,10.271,0,0,0,33,41a9.7,9.7,0,0,0,7.071-3.075A10.7,10.7,0,0,0,43,30.5,10.27,10.27,0,0,0,33,20Z"/></g>
+<script>(function(){var a=document.querySelector('#el_Xw55o8qHXv'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();</script></svg>
