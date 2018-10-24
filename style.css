@@ -9,3 +9,39 @@
 	   grid-template-columns: 1fr 1fr 1fr;
 	   grid-gap: 1rem;
 }
+.路径_1:not(:hover) .路径_1{
+	fill:#CECECE;
+}
+.路径_1:hover .路径_1{
+	fill: #A7F1F4;
+}
+.w-128 {
+	width:120px;
+}
+.组_10 .减去_10{
+	display: none;
+}
+.组_10:hover .减去_10{
+	display:block;
+}
+
+.w-128 {
+	width:110px;}
+
+.组_2:not(:hover).组_2{
+	fill:#cecece;
+}	
+.组_2:hover.组_2{
+	fill:white;
+}
+.w-128 {
+	width:110px;}
+
+.moon:not (:hover).moon{
+	fill:#white;
+}
+.moon:hover.moon{
+	fill:black;
+}
+.w-128 {
+	width:110px;}

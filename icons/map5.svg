@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212.079 144.445">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212.079 144.445" class="组_2 W-128">
   <defs>
     <style>
       .cls-1 {
@@ -9,29 +9,29 @@
     </style>
   </defs>
   <g id="组_2" data-name="组 2" transform="translate(393.195 -67.315)">
-    <path id="路径_5" data-name="路径 5" class="cls-1" d="M-182.505,164.719" transform="translate(1.389)"/>
-    <path id="路径_7" data-name="路径 7" class="cls-1" d="M-393.2,113.679c34.042-32.56,53.7-48.25,53.7-48.25l46.024,48.25,47.664-48.25,42.976,48.25v89.714l-42.976-26.163-47.664,26.163-46.024-26.163-53.7,26.163Z" transform="translate(2 4.808)"/>
-    <path id="路径_8" data-name="路径 8" class="cls-1" d="M0,0V112.588" transform="translate(-337.826 70.308)"/>
-    <line id="直线_4" data-name="直线 4" class="cls-1" y2="112.192" transform="translate(-243.878 70.308)"/>
-    <line id="直线_5" data-name="直线 5" class="cls-1" y2="91" transform="translate(-291.368 117.5)"/>
-    <circle id="椭圆_5" data-name="椭圆 5" class="cls-1" cx="3" cy="3" r="3" transform="translate(-376.5 168.768)"/>
-    <circle id="椭圆_6" data-name="椭圆 6" class="cls-1" cx="3" cy="3" r="3" transform="translate(-223.649 108.346)"/>
-    <line id="直线_6" data-name="直线 6" class="cls-1" y1="4" x2="3" transform="translate(-367.5 162.075)"/>
-    <line id="直线_7" data-name="直线 7" class="cls-1" y1="4" x2="3" transform="translate(-367.5 162.075)"/>
-    <line id="直线_8" data-name="直线 8" class="cls-1" y1="5" x2="1" transform="translate(-362.5 151.603)"/>
-    <line id="直线_9" data-name="直线 9" class="cls-1" y1="3" x2="3" transform="translate(-355.598 142.233)"/>
-    <line id="直线_10" data-name="直线 10" class="cls-1" y1="3" x2="4" transform="translate(-346.054 136.166)"/>
-    <line id="直线_11" data-name="直线 11" class="cls-1" x2="6" y2="2" transform="translate(-333.637 132.761)"/>
-    <line id="直线_12" data-name="直线 12" class="cls-1" x2="5" y2="3" transform="translate(-321.247 137.899)"/>
-    <line id="直线_13" data-name="直线 13" class="cls-1" x2="3" y2="3" transform="translate(-310.943 142.233)"/>
-    <line id="直线_14" data-name="直线 14" class="cls-1" x2="3" y2="2" transform="translate(-300.614 148.376)"/>
-    <line id="直线_15" data-name="直线 15" class="cls-1" y1="2" x2="4" transform="translate(-289.234 150.111)"/>
-    <line id="直线_16" data-name="直线 16" class="cls-1" y1="3" x2="4" transform="translate(-279.936 144.833)"/>
-    <line id="直线_17" data-name="直线 17" class="cls-1" y1="3" x2="4" transform="translate(-270.638 139.633)"/>
-    <line id="直线_18" data-name="直线 18" class="cls-1" y1="4" x2="3" transform="translate(-261.363 134.369)"/>
-    <line id="直线_19" data-name="直线 19" class="cls-1" y1="4" x2="3" transform="translate(-253.099 126.577)"/>
-    <line id="直线_20" data-name="直线 20" class="cls-1" x2="5" y2="2" transform="translate(-241.685 124.953)"/>
-    <line id="直线_21" data-name="直线 21" class="cls-1" y1="1" x2="5" transform="translate(-231.709 125.874)"/>
-    <line id="直线_22" data-name="直线 22" class="cls-1" y1="5" x2="2" transform="translate(-223.671 117.871)"/>
+    <path id="路径_5" data-name="路径 5" class="cls-1 组_2" d="M-182.505,164.719" transform="translate(1.389)"/>
+    <path id="路径_7" data-name="路径 7" class="cls-1 组_2" d="M-393.2,113.679c34.042-32.56,53.7-48.25,53.7-48.25l46.024,48.25,47.664-48.25,42.976,48.25v89.714l-42.976-26.163-47.664,26.163-46.024-26.163-53.7,26.163Z" transform="translate(2 4.808)"/>
+    <path id="路径_8" data-name="路径 8" class="cls-1 组_2" d="M0,0V112.588" transform="translate(-337.826 70.308)"/>
+    <line id="直线_4" data-name="直线 4" class="cls-1 组_2" y2="112.192" transform="translate(-243.878 70.308)"/>
+    <line id="直线_5" data-name="直线 5" class="cls-1 组_2" y2="91" transform="translate(-291.368 117.5)"/>
+    <circle id="椭圆_5" data-name="椭圆 5" class="cls-1 组_2" cx="3" cy="3" r="3" transform="translate(-376.5 168.768)"/>
+    <circle id="椭圆_6" data-name="椭圆 6" class="cls-1 组_2" cx="3" cy="3" r="3" transform="translate(-223.649 108.346)"/>
+    <line id="直线_6" data-name="直线 6" class="cls-1 组_2" y1="4" x2="3" transform="translate(-367.5 162.075)"/>
+    <line id="直线_7" data-name="直线 7" class="cls-1 组_2" y1="4" x2="3" transform="translate(-367.5 162.075)"/>
+    <line id="直线_8" data-name="直线 8" class="cls-1 组_2" y1="5" x2="1" transform="translate(-362.5 151.603)"/>
+    <line id="直线_9" data-name="直线 9" class="cls-1 组_2" y1="3" x2="3" transform="translate(-355.598 142.233)"/>
+    <line id="直线_10" data-name="直线 10" class="cls-1 组_2" y1="3" x2="4" transform="translate(-346.054 136.166)"/>
+    <line id="直线_11" data-name="直线 11" class="cls-1 组_2" x2="6" y2="2" transform="translate(-333.637 132.761)"/>
+    <line id="直线_12" data-name="直线 12" class="cls-1 组_2" x2="5" y2="3" transform="translate(-321.247 137.899)"/>
+    <line id="直线_13" data-name="直线 13" class="cls-1 组_2" x2="3" y2="3" transform="translate(-310.943 142.233)"/>
+    <line id="直线_14" data-name="直线 14" class="cls-1 组_2" x2="3" y2="2" transform="translate(-300.614 148.376)"/>
+    <line id="直线_15" data-name="直线 15" class="cls-1 组_2" y1="2" x2="4" transform="translate(-289.234 150.111)"/>
+    <line id="直线_16" data-name="直线 16" class="cls-1 组_2" y1="3" x2="4" transform="translate(-279.936 144.833)"/>
+    <line id="直线_17" data-name="直线 17" class="cls-1 组_2" y1="3" x2="4" transform="translate(-270.638 139.633)"/>
+    <line id="直线_18" data-name="直线 18" class="cls-1 组_2" y1="4" x2="3" transform="translate(-261.363 134.369)"/>
+    <line id="直线_19" data-name="直线 19" class="cls-1 组_2" y1="4" x2="3" transform="translate(-253.099 126.577)"/>
+    <line id="直线_20" data-name="直线 20" class="cls-1 组_2" x2="5" y2="2" transform="translate(-241.685 124.953)"/>
+    <line id="直线_21" data-name="直线 21" class="cls-1 组_2" y1="1" x2="5" transform="translate(-231.709 125.874)"/>
+    <line id="直线_22" data-name="直线 22" class="cls-1 组_2" y1="5" x2="2" transform="translate(-223.671 117.871)"/>
   </g>
 </svg>
